@@ -1,0 +1,8 @@
+generate p p > l+ l-
+output Drell_Yan
+launch
+
+shower=Pythia ---> Make the hepmc file
+detector=Delphe ---> Make the root file
+
+PATH_TO_CARDS = cards/delphes_card_CMS.tcl ---> configuration of CMS
