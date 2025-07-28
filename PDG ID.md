@@ -28,7 +28,7 @@ The `PDG_ID` dictionary maps [PDG (Particle Data Group)](https://pdg.lbl.gov/) M
 >    25: 'Higgs (H1^0)', <br>
 >    35: 'Higgs (H2^0)', <br>
 >    45: 'Higgs (H3^0)', <br>
->   36: 'Pseudoscalar Higgs (A1^0)', -36: 'anti-Pseudoscalar Higgs (A1^0)', <br>
+>    36: 'Pseudoscalar Higgs (A1^0)', -36: 'anti-Pseudoscalar Higgs (A1^0)', <br>
 >    46: 'Pseudoscalar Higgs (A2^0)', -46: 'anti-Pseudoscalar Higgs (A2^0)', <br>
 >    37: 'Charged Higgs (H+)', -37: 'Charged Higgs (H-)',
 >
